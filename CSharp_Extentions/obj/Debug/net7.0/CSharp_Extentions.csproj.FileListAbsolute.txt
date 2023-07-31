@@ -1,0 +1,15 @@
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\bin\Debug\net7.0\CSharp_Extentions.exe
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\bin\Debug\net7.0\CSharp_Extentions.deps.json
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\bin\Debug\net7.0\CSharp_Extentions.runtimeconfig.json
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\bin\Debug\net7.0\CSharp_Extentions.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\bin\Debug\net7.0\CSharp_Extentions.pdb
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.csproj.AssemblyReference.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.AssemblyInfoInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.AssemblyInfo.cs
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.csproj.CoreCompileInputs.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\refint\CSharp_Extentions.dll
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.pdb
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\CSharp_Extentions.genruntimeconfig.cache
+C:\Users\Vludisluv\Desktop\Gb\CSharp\CSharp_Extentions\obj\Debug\net7.0\ref\CSharp_Extentions.dll
